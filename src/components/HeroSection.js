@@ -9,6 +9,7 @@ function HeroSection() {
             <video src="/videos/world.mp4" autoPlay loop muted />
             <h1>Adventure Awaits</h1>
             <p>What are you waiting for?</p>
+            <p>This is new?</p>
             <div className="hero-btns">
                 <Button
                     className="btns"
